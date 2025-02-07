@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences2</string>
+    <string name="preferencias">Guardar Preferencias</string>
+    <string name="consultar">Obtener Preferencias</string>
+</resources>
